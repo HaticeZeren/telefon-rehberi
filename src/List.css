@@ -1,0 +1,43 @@
+input{
+    margin-top:50px;
+    width: 80%;
+    height: 30px;
+    text-indent: 10px;
+}
+
+ul,li{
+    list-style:none;
+    text-align: left;
+
+}
+ul{
+    padding: 90px;
+    float: center;
+
+}
+.listArea{
+
+    margin: 0 auto;
+}
+.Liste,li{
+    padding-top: 7px;
+    border-bottom: solid 1px black;
+}
+
+.telefon{
+float: right;
+}
+
+table,tr,td{
+    padding: 20px;
+    text-align: left;
+    border-bottom: solid 1px gray; 
+}
+
+table{
+    border: solid 1px red;
+    margin-left:90px;
+    width: 80%;
+    text-align: left;
+
+}
